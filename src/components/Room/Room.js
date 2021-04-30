@@ -10,8 +10,8 @@ import IconButton from '@material-ui/core/IconButton';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import { red } from '@material-ui/core/colors';
-import LocalHotelIcon from '@material-ui/icons/LocalHotel';
-import WcIcon from '@material-ui/icons/Wc';
+import LocalHotelIcon from '@material-ui/icons/LocalHotel'; ///this is for hotel bed
+import WcIcon from '@material-ui/icons/Wc'; ///this is couple icon
 import AttachMoneyIcon from '@material-ui/icons/AttachMoney';
 import { useHistory } from 'react-router-dom';
 

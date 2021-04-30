@@ -39,6 +39,7 @@ const Home = () => {
             price: 199
         }
     ]
+    
     return (
         <div style={style}>
             {
